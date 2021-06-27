@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1024996
+- 👋 Hi, I’m hugh,my github address @1024996
 - 👀 I’m interested in code
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on github
